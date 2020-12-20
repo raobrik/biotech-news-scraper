@@ -14,4 +14,4 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-driver.get("https://www.biospace.com/news/new-companies/")
+driver.get("https://www.biospace.com/news/")
